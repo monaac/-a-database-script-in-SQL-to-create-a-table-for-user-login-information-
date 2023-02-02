@@ -1,0 +1,1 @@
+This script creates a table named users with columns for an id, a username, and a password. The id column is set as the primary key and will automatically increment as new users are added to the table. The username column has a constraint of being unique and not null, and the password column also has a constraint of not being null.
